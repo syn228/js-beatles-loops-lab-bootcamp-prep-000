@@ -12,7 +12,7 @@ function theBeatlesPlay() {
 function johnLennonFacts(facts) {
   let array = [];
   while (facts.length > 0) {
-    factShift = facts.shift() 
+    let factShift = facts.shift() 
     array.push(factShift + '!!!')
   }
   return array
