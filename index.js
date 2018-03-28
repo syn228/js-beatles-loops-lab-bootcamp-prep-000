@@ -15,7 +15,7 @@ function johnLennonFacts() {
   "He hated the sound of his own voice"
 ];
   while (facts.index > 0) {
-    --facts.push 
+    --facts.push() 
   }
   return facts
 }
