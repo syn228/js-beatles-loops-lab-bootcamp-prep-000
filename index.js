@@ -14,8 +14,8 @@ function johnLennonFacts() {
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
-  while (facts) {
-    console.log
+  while (facts.index < 4) {
+    
   }
   return facts
 }
