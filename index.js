@@ -15,7 +15,7 @@ function johnLennonFacts() {
   "He hated the sound of his own voice"
 ];
   while (facts.index < 4) {
-    console.log(--facts + '!!!')
+    console.log(`${--facts}!!!`)
   }
   return facts
 }
