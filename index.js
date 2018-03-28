@@ -17,5 +17,5 @@ function johnLennonFacts() {
   while (facts.index < 4) {
     console.log(`${--facts}!!!`)
   }
-  return facts
+  return console.log(`${--facts}!!!`)
 }
