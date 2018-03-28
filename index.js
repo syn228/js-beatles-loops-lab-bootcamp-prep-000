@@ -7,6 +7,8 @@ function theBeatlesPlay() {
   }
   return array;
 }
+
+
 function johnLennonFacts() {
   const facts = [
   "He was the last Beatle to learn to drive",
@@ -19,6 +21,8 @@ function johnLennonFacts() {
   }
   return 
 }
+
+
 function iLoveTheBeatles(n) {
   var array = [];
   do {
