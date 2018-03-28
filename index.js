@@ -15,7 +15,7 @@ function johnLennonFacts() {
   "He hated the sound of his own voice"
 ];
   while (facts) {
-    --facts
+    facts.push('!!!')
   }
   return console.log(`${facts}!!!`)
 }
