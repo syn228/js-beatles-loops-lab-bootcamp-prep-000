@@ -17,7 +17,7 @@ function johnLennonFacts() {
   while (facts) {
     --facts
   }
-  return (`${facts}!!!`)
+  return console.log(`${facts}!!!`)
 }
 function iLoveTheBeatles(n) {
   var array = [];
